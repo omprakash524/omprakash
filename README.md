@@ -1,0 +1,2 @@
+# omprakash
+Hello i am omprakash I’ve created my readme profile a few days back, this has led me to create this article which will help y’all to make a kickass readme profile. I’ll be discussing aspects which I think are more beneficial in taking your readme to a next level. By just sparing 20–30 minutes in creating a good readme profile might create a high impact in your next job interview. That’s why it’s a good idea to always keep your Github profile not only up to date but also looking amazing.
